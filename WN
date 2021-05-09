@@ -1,0 +1,37 @@
+{
+"symbol": "WN",
+
+"name": "WhyNot.json",
+
+"type": "ERC20",
+
+"address": "0x8c5aCF6dBD24c66e6FD44d4A4C3d7a2D955AAad2",
+"ens_address": "",
+"decimals": 0,
+"website": "",
+"logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+},
+"support": {
+    "email": "",
+    "url": ""
+},
+"social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "",
+    "forum": "",
+    "github": "",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+}
+}
